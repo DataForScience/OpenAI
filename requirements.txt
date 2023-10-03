@@ -9,3 +9,4 @@ matplotlib==3.7.2
 termcolor==2.3.0
 keras==2.12.0
 scikit-learn
+plotly

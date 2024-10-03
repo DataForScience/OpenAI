@@ -63,4 +63,4 @@ Break (5 min)
 - Generating Comments
 - Course wrap-up, Q&A, and Next Steps (15 min)
 
-Slides: https://data4sci.com/landing/openai
+Slides: [https://data4sci.com/landing/openai](https://data4sci.gumroad.com/l/openai)

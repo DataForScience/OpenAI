@@ -23,7 +23,7 @@ OpenAI is the current leader in publicly available AI models, with state-of-the-
 In this workshop, we will introduce the main concepts behind this class of models and how their functionality is published through the API. We will combine the tools provided by OpenAI to answer questions on a topic with ChatGPT, generate image variations from a text prompt with DALL-E, create a textual description of an image, and generate code from a prompt.
 
 ## Schedule
-### 1. Generative AI and OpenAI (50 min)
+### 1. Generative AI and OpenAI
 - Basic Principles
 - Transformers
 - Large Language Models
@@ -31,36 +31,30 @@ In this workshop, we will introduce the main concepts behind this class of model
 - Hallucinations
 - Image Models
 - API Structure
-Break (10 min)
-Q&A (5 min)
 
-### 2. GPT Models (50 min)
+### 2. GPT Models
 - Basic Usage
 - Input Formatting
 - Multi-step Prompts
 - Document summarization
-Break (10 min)
-Q&A (5 min)
 
-### 3. Embeddings (30 min)
+### 3. Embeddings
 - Understanding Embeddings
 - Question Answering
 - Recommendations
 - Long Texts
 
-### 4. Image Generation (30 min)
+### 4. Image Generation
 - DALL-E Model
 - DALL-E vs GPT-4
 - Generating Images from a Prompt
 - Image Variations
 - Prompt Expansion with GPT
-Break (5 min)
 
-### 5. Code Generation and Explanation (30 min)
+### 5. Code Generation and Explanation
 - CODEX Model
 - Generating Code from a Prompt
 - Explaining Existing Code
 - Generating Comments
-- Course wrap-up, Q&A, and Next Steps (15 min)
 
-Slides: [https://data4sci.com/landing/openai](https://data4sci.gumroad.com/l/openai)
+Slides: [https://data4sci.gumroad.com/l/openai](https://data4sci.gumroad.com/l/openai)

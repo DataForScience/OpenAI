@@ -1,3 +1,10 @@
+.pytest_cache
+.venv
+
+# macOS metadata
+.DS_Store
+._*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
